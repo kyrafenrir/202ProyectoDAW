@@ -10,8 +10,6 @@ Erika Martínez Pérez
 Indice del ciclo formativo DAW
 ## Funcionalidades
 ## Entorno de desarrollo
-[http://daw202.isauces.local]
-(Entorno de desarrollo de Erika)
+[http://daw202.isauces.local/202DWESProyectoDWES/indexProyectoDWES.php](Entorno de desarrollo de Erika)
 ## Entorno de explotacion
-[http://daw202.ieslossauces.es]
-(Entorno de explotación de Erika)
+[http://daw202.ieslossauces.es/202DWESProyectoDWES/indexProyectoDWES.php](Entorno de explotación de Erika)
